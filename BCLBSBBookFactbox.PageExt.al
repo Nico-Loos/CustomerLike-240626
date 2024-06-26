@@ -8,6 +8,7 @@ pageextension 50200 "BCL BSB Book Factbox" extends "BSB Book Factbox"
             {
                 ApplicationArea = All;
                 ToolTip = 'Shows the No. of Customer Likes.', Comment = '%';
+                //TODO Feld wird nicht aktualisiert
             }
         }
     }
