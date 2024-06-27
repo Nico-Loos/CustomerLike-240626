@@ -3,85 +3,10 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Customer Like">
     <body>
       <group id="body">
-        <trans-unit id="Codeunit 257544415 - Method 4183682721 - NamedType 1582893390" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Company Inforamtion Title</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BCL Company Info Withard Meth - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType TitleLbl</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 257544415 - Method 4183682721 - NamedType 3800423060" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Company Inforamtion Title S</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BCL Company Info Withard Meth - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType ShortTitleLbl</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 257544415 - Method 4183682721 - NamedType 3569966352" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Company Inforamtion Title L</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BCL Company Info Withard Meth - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType DescriptionLbl</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 257544415 - Method 1858114840 - NamedType 254384817" size-unit="char" translate="yes" xml:space="preserve">
-          <source>This setup is already done. Do you want to open the setup page instead?</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BCL Company Info Withard Meth - Method OnReRunOfCompletedSetup - NamedType SetupAlreadyDoneQst</note>
-        </trans-unit>
         <trans-unit id="Codeunit 969751305 - NamedType 3479025824" size-unit="char" translate="yes" xml:space="preserve">
           <source>Gelikte Bücher nicht löschen!</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit BCL Subscriber - NamedType OnBeforeOnDeleteBookErr</note>
-        </trans-unit>
-        <trans-unit id="Page 679706327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>SETUP COMPANY INFORMATION</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BCL Company Information Wizard - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 679706327 - Control 3997336476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Company Name</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BCL Company Information Wizard - Control Company Name - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 679706327 - Control 727926705 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Provide the name of your company.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BCL Company Information Wizard - Control Group22 - Property InstructionalText</note>
-        </trans-unit>
-        <trans-unit id="Page 679706327 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Name eingeben</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BCL Company Information Wizard - Control Name - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 679706327 - Control 2279239964 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
-          <source>E-Mail address</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BCL Company Information Wizard - Control Step2 - Property InstructionalText</note>
-        </trans-unit>
-        <trans-unit id="Page 679706327 - Control 2684011955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Mailadresse eingeben</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BCL Company Information Wizard - Control Mail - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 679706327 - Control 1510994355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>ALL DONE</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BCL Company Information Wizard - Control ALL DONE - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 679706327 - Control 2641016556 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Thank you! To save this setup, choose Finish.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BCL Company Information Wizard - Control Group25 - Property InstructionalText</note>
-        </trans-unit>
-        <trans-unit id="Page 679706327 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Back</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BCL Company Information Wizard - Action ActionBack - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 679706327 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Finish</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BCL Company Information Wizard - Action ActionFinish - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 679706327 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Next</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BCL Company Information Wizard - Action ActionNext - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3490406030 - Control 1590271761 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 826345865">
           <source>Shows the No. of Customer Likes.</source>
