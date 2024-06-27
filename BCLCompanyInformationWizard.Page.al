@@ -58,6 +58,7 @@ page 50200 "BCL Company Information Wizard"
                     field(Name; Rec.Name)
                     {
                         ApplicationArea = All;
+                        ToolTip = 'Name eingeben';
                     }
                 }
             }
@@ -71,6 +72,7 @@ page 50200 "BCL Company Information Wizard"
                 field(Mail; Rec."E-Mail")
                 {
                     ApplicationArea = All;
+                    ToolTip = 'Mailadresse eingeben';
                 }
             }
 
