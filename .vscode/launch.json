@@ -6,7 +6,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "OnPrem",
-            "server": "http://cronus-24",
+            "server": "http://BC240",
             "serverInstance": "BC",
             "authentication": "Windows",
             "startupObjectId": 22,
